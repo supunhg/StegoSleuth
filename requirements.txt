@@ -1,0 +1,9 @@
+Pillow
+numpy
+opencv-python
+python-magic-bin
+exifread
+stegano
+click
+colorama
+binwalk
